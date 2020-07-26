@@ -1,0 +1,15 @@
+{
+    "name": "gersonf/framework",
+    "authors": [
+        {
+            "name": "Gerson-Felix",
+            "email": "gerson.01@outlook.pt"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
